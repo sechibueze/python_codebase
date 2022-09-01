@@ -3,7 +3,7 @@
 ## Outline
 
 - Variables
-- Datatypes(Integers, Floats, List, Tuples, Dictionary)
+- Datatypes(Integers, Floats, Strings, List, Tuples, Dictionary, Set)
 - Operators(Arithmetic, Comparison & Logical)
 - Project
 - Decision making
